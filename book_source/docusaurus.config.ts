@@ -7,10 +7,10 @@ const config: Config = {
   tagline: "Bridging digital AI with physical humanoid robots",
 
   // Set the production url of your site here
-  url: "https://ayesha-aziz123.github.io",
+  url: "humanoid-robotics-book",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/Humanoid-Robotics-textbook/",
+  baseUrl: "/",
   trailingSlash: false,
 
   projectName: "Humanoid-Robotics-textbook", // Repository ka naam
