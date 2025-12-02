@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+*.log
+.env*
+.python-version
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# Node.js/JavaScript/TypeScript
+node_modules/
+dist/
+
+# Project specific additions
+.git/
+
+pytest.ini
+requirements.txt
